@@ -1,0 +1,563 @@
+0
+823c04080a93e8e4f768612e517d1277dfb6912e
+s:30241:"<!DOCTYPE html>
+<html lang="en">
+<head><!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P3SBL5');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/components/css/styles.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Slab:wght@400;500&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src = "http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Page Not Found | Penn State.</title>
+    <meta name="description" content="Penn State Page Not Found">
+    <link rel="canonical" href="https://www.psu.edu/404/" />
+</head>
+<body class="main">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3SBL5"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header>
+
+    <div class="header-wrap">
+        <!--  Alert banner: options for the alert div are immediate, urgent, all-clear, and non-emergency. -->
+        <!--  Skip to main content  -->
+
+        <a href="/#main-content" class="access-hidden">Skip to main content</a>
+
+        <!--   Main Navigation  -->
+
+        <nav id="navigation">
+            <div class="container">
+                <div class="brand" id="brand">
+                    <!-- MARK -->
+                    <a href="/" class="header-logo">
+                        <img src="https://www.psu.edu/psu-edu-assets/images/shared/psu-mark.svg" alt="Nittany Lion Shield Penn State Mark" id="header-logo" >
+                    </a>
+
+                    <!-- NAVIGATION -->
+                    <ul id="main-nav">
+                        <li class="has-submenu">
+                            <a href="/this-is-penn-state" aria-haspopup="true">This is Penn State</a>
+                            <div class="dropdown-content">
+                                <div class="submenu-links">
+                                    <ul>
+                                        <li class="menu_link">
+                                            <a href="/this-is-penn-state/mission-and-values">Mission and Values</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/this-is-penn-state/leadership">Leadership</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/this-is-penn-state/history">History</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/this-is-penn-state/facts-and-rankings">Facts and Rankings</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/this-is-penn-state/our-impact">Our Impact</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/healthcare">Health Care</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </li>
+
+                        <li class="has-submenu"><a href="/academics" aria-haspopup="true">Academics</a>
+                            <div class="dropdown-content">
+                                <div class="submenu-links">
+                                    <ul>
+                                        <li class="menu_link">
+                                            <a href="/academics/undergraduate-degrees">Undergraduate</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/academics/graduate-degrees">Graduate & Professional Schools</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://www.worldcampus.psu.edu/">Online Degrees</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://global.psu.edu/">Global Education</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/academics/colleges">Academic Colleges</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/academics/campuses">Campus Locations</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </li>
+
+                        <li class="has-submenu"><a href="/admission" aria-haspopup="true">Admission</a>
+                            <div class="dropdown-content">
+                                <div class="submenu-links">
+                                    <ul>
+                                        <li class="menu_link">
+                                            <a href="/admission/undergraduate" class="menu_link">Undergraduate</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/admission#grad" class="menu_link">Graduate</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://www.worldcampus.psu.edu/" class="menu_link">Online</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/admission#prof" class="menu_link">Professional Schools</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="/admission#continuing" class="menu_link">Continuing Education</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </li>
+
+                        <li class="nobtn"><a href="/tuition-and-financial-aid">Tuition and Aid</a></li>
+
+                        <li class="nobtn"><a href="/research">Research</a></li>
+
+                        <li class="nobtn"><a href="https://gopsusports.com/">Athletics</a></li>
+
+                        <li class="has-submenu"><a href="https://news.psu.edu/" aria-haspopup="true">News</a>
+                            <div class="dropdown-content">
+                                <div class="submenu-links">
+                                    <ul>
+                                        <li class="menu_link">
+                                            <a href="https://news.psu.edu/news/latest-news" class="menu_link">Latest News</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://news.psu.edu/topic/academics" class="menu_link">Academics</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://news.psu.edu/topic/research" class="menu_link">Our Research</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://news.psu.edu/topic/campus-life" class="menu_link">Campus Life</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://news.psu.edu/topic/athletics" class="menu_link">Athletics</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://news.psu.edu/topic/administration" class="menu_link">Administration</a>
+                                        </li>
+                                        <li class="menu_link">
+                                            <a href="https://news.psu.edu/topic/arts-and-entertainment" class="menu_link">Arts and Entertainment</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </li>
+                    </ul>
+
+                    <!-- CTA -->
+                    <div class="header-buttons">
+                      <div class="btn-wrap">
+                        <a href="https://universityethics.psu.edu/penn-state-hotline" class="button hotline-button">Hotline</a>
+                        <a href="https://raise.psu.edu/" class="button gradient-button-hover cta-button">Give</a>
+                        <a href="/admission" class="button gradient-button-hover cta-button">Apply</a>
+                        <div class="more-menu-buttons">
+                            <button class="toggle-search open-dialog" type="button" aria-label="Expand navigation menu"><i class="icon-search-1"></i></button>
+                            <button class="hamburger hamburger--arrow-r open-dialog" type="button">
+                          <span class="hamburger-box">
+                              <span class="hamburger-inner"></span>
+                          </span>
+                                More
+                            </button>
+                        </div>
+                      </div>
+                    </div>
+
+                </div>
+            </div>
+        </nav>
+        <!-- end of nav -->
+    </div>
+
+    <div class="main-dialog full-menu-wrap" role="dialog" aria-labelledby="dialog-title" aria-describedby="dialog-description">
+        <div class="full-menu">
+            <div id="dialog-title" class="sr-only">Full site navigation menu</div>
+            <p id="dialog-description" class="sr-only">This dialog contains the full navigation menu for www.psu.edu.</p>
+            <a href="/" class="full-menu-mark"><img src="/components/img/header/psu-mark-2c.svg" alt="Penn State mark"></a>
+            <button class="close-menu close-dialog" aria-label="Close Navigation"><span></span> Close</button>
+            <form class="search-form" name="search-form" id="google_search" action="/search?query=" method="GET">
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <label for="search-type" class="visibility-hidden">Search Type</label>
+                        <select class="form-control" id="search-type">
+                            <option>Penn State</option>
+                        </select>
+                    </div>
+                    <label for="search-term" class="visibility-hidden">Search Type</label>
+                    <input class="form-control" type="search" id="search-term" name="query" placeholder="What are you looking for?">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="submit"><img src="/components/img/header/magnifying-glass.png" alt="search icon" /></button>
+                    </div>
+                </div>
+            </form>
+            <div class="cta-container">
+                <div class="wrap-cta">
+                    <a href="https://universityethics.psu.edu/penn-state-hotline" class="button hotline-button">Hotline</a>
+                    <a href="https://raise.psu.edu/" class="button gradient-button-hover cta-button">Give</a>
+                    <a href="/admission" class="button gradient-button-hover cta-button">Apply</a>
+                </div>
+            </div>
+            <ul id="modal-main-nav">
+                <li class="has-submenu">
+                    <a href="/this-is-penn-state" >This is Penn State</a>
+                    <div class="dropdown-content">
+                        <div class="submenu-links">
+                            <ul>
+                                <li class="menu_link">
+                                    <a href="/this-is-penn-state/facts-and-rankings">Facts and Rankings</a>
+                                </li>
+
+                                <li class="menu_link">
+                                    <a href="/this-is-penn-state/our-impact">Our Impact</a>
+                                </li>
+
+                                <li class="menu_link">
+                                    <a href="/this-is-penn-state/mission-and-values">Mission and Values</a>
+                                </li>
+
+                                <li class="menu_link">
+                                    <a href="/this-is-penn-state/leadership">Leadership</a>
+                                </li>
+
+                                <li class="menu_link">
+                                    <a href="/this-is-penn-state/history">History</a>
+                                </li>
+
+                                <li class="menu_link">
+                                    <a href="/healthcare">Health Care</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="has-submenu"><a href="/academics">Academics</a>
+                    <div class="dropdown-content">
+                        <div class="submenu-links">
+                            <ul>
+                                <li class="menu_link">
+                                    <a href="/academics/undergraduate-degrees">Undergraduate</a>
+                                </li>
+                                <li class="menu_link">
+                                    <a href="/academics/graduate-degrees">Graduate & Professional Schools</a>
+                                </li>
+                                <li class="menu_link">
+                                    <a href="https://www.worldcampus.psu.edu/">Online Degrees</a>
+                                </li>
+                                <li class="menu_link">
+                                    <a href="https://global.psu.edu/">Global Education</a>
+                                </li>
+                                <li class="menu_link">
+                                    <a href="/academics/colleges">Academic Colleges</a>
+                                </li>
+                                <li class="menu_link">
+                                    <a href="/academics/campuses">Campus Locations</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="has-submenu"><a href="/admission">Admission</a>
+                    <div class="dropdown-content">
+                        <div class="submenu-links">
+                            <ul>
+                                <li>
+                                    <a href="/admission/undergraduate" class="menu_link">Undergraduate</a>
+                                </li>
+                                <li>
+                                    <a href="/admission#grad" class="menu_link">Graduate</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.worldcampus.psu.edu/" class="menu_link">Online</a>
+                                </li>
+                                <li>
+                                    <a href="/admission#prof" class="menu_link">Professional Schools</a>
+                                </li>
+                                <li>
+                                    <a href="/admission#continuing" class="menu_link">Continuing Education</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nobtn"><a href="/tuition-and-financial-aid">Tuition and Aid</a></li>
+                <li class="nobtn"><a href="/research">Research</a></li>
+                <li class="nobtn"><a href="https://gopsusports.com/">Athletics</a></li>
+                <li class="has-submenu"><a href="https://news.psu.edu">News</a>
+                    <div class="dropdown-content">
+                        <div class="submenu-links">
+                            <ul>
+                                <li>
+                                    <a href="https://news.psu.edu/news/latest-news" class="menu_link">Latest News</a>
+                                </li>
+                                <li>
+                                    <a href="https://news.psu.edu/topic/academics" class="menu_link">Academics</a>
+                                </li>
+                                <li>
+                                    <a href="https://news.psu.edu/topic/research" class="menu_link">Our Research</a>
+                                </li>
+                                <li>
+                                    <a href="https://news.psu.edu/topic/campus-life" class="menu_link">Campus Life</a>
+                                </li>
+                                <li>
+                                    <a href="https://news.psu.edu/topic/athletics" class="menu_link">Athletics</a>
+                                </li>
+                                <li>
+                                    <a href="https://news.psu.edu/topic/administration" class="menu_link">Administration</a>
+                                </li>
+                                <li>
+                                    <a href="https://news.psu.edu/topic/arts-and-entertainment" class="menu_link">Arts and Entertainment</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <div class="audience-menu">
+                <h4>Find Information For:</h4>
+                <ul>
+                    <li><a href="/visitors">Visitors</a></li>
+                    <li><a href="/prospective-students">Prospective Students</a></li>
+                    <li><a href="/current-students">Current Students</a></li>
+                    <li><a href="/faculty-and-staff">Faculty and Staff</a></li>
+                    <li><a href="/business-and-industry">Business and Industry</a></li>
+                    <li><a href="https://veterans.psu.edu/">Veterans</a></li>
+                    <li><a href="https://alumni.psu.edu/">Alumni</a></li>
+                    <li><a href="https://media.psu.edu">Media</a></li>
+                </ul>
+            </div>
+            <div class="helpful-links-menu">
+                <h4>Helpful Links</h4>
+                <ul>
+                    <li><a href="/academics/campuses">Find a Campus</a></li>
+                    <li><a href="/maps">Maps</a></li>
+                    <li><a href="https://hr.psu.edu/careers">Careers</a></li>
+                    <li><a href="/search/directories/">Directory</a></li>
+                    <li><a href="https://www.registrar.psu.edu/academic-calendars/">Academic Calendar</a></li>
+                </ul>
+            </div>
+            <div class="social-menu">
+                <h4 class="social-heading">Connect With Us</h4>
+                <ul>
+                    <li><a href="https://www.facebook.com/pennstate"><i class=" icon-facebook"></i><span>Facebook</span></a></li>
+                    <li><a href="https://www.twitter.com/penn_state"><i class=" icon-twitter"></i><span>Twitter</span></a></li>
+                    <li><a href="https://www.instagram.com/pennstate"><i class=" icon-instagram-1"><span>Instagram</span></i></a></li>
+                    <li><a href="https://www.linkedin.com/school/penn-state-university/mycompany/"><i class=" icon-linkedin-squared"></i><span>LinkedIn</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>  <!-- full menu wrap -->
+</header>
+
+<div id="main-content" role="main">
+
+    <section class="styled-text-wrap">
+        <div class="container ">
+            <div class="styled-text basic-page-content-color">
+                <div>
+                    <h2 class="title-xx-large">Oops! We can't find that.</h2>
+                    <b class="separating-line-primary"></b>
+                    <!--<p class="body-small">404 Error Page</p>-->
+                    <p class="body-medium">We recommend:</p>
+                    <ul>
+                        <li>Checking the url</li>
+                        <li>Clicking on the back button and trying another link</li>
+                        <li>Visiting our <a href="/">home page</a></li>
+                        <li>Searching our site</li>
+                    </ul>
+
+                    <img src="/components/img/lion-head.png" class="styled-text-search-lion" alt=" ">
+                    <div class="styled-text-search-form">
+                        <form class="search-form" name="search-form" id="google_search" action="/search?query=" method="GET">
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                    <label for="styled-text-search-type" class="visibility-hidden">Search Type</label>
+                                    <select class="form-control" id="styled-text-search-type">
+                                        <option>Penn State</option>
+                                    </select>
+                                </div>
+                                <div class="search-term">
+                                    <label for="styled-text-search-term" class="visibility-hidden">Search Term</label>
+                                    <input class="form-control" type="search" id="styled-text-search-term" name="query" placeholder="What are you looking for?">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary" type="submit" aria-label="Submit search"><i class="icon-search-1"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    
+<section class="footer-wrap">
+    <div class="container">
+        <footer>
+
+                <div class="map-social-cta">
+                    <div class="map">
+                        <img src="https://www.psu.edu/psu-edu-assets/images/shared/newfootermap2.png" alt="Penn State">
+                    </div>
+
+                    <div class="social-cta">
+
+                        <ul>
+                            <li>
+                                <a href="https://www.facebook.com/pennstate/"><i class=" icon-facebook"></i><span>Facebook</span></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/penn_state"><i class=" icon-twitter"></i><span>Twitter</span></a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/pennstate/"><i class=" icon-instagram-1"></i><span>Instagram</span></a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/school/penn-state-university/"><i class=" icon-linkedin-squared"></i><span>LinkedIn</span></a>
+                            </li>
+                        </ul>
+
+                        <h2>Get News By Email //</h2>
+                        <a href="http://headlines.psu.edu/" class="button button-dark-bkg icon-angle-right">Discover News</a>
+
+                    </div>
+                </div>
+
+            <div class="footer-list-wrap">
+                <div class="footer-list">
+
+                    <h2>Explore</h2>
+                    <ul>
+
+                        <li><a href="https://news.psu.edu/">News</a></li>
+                        <li><a href="https://hr.psu.edu/careers">Careers</a></li>
+                        <li><a href="/this-is-penn-state/facts-and-rankings">Facts and Rankings</a></li>
+                        <li><a href="/academics/colleges">Colleges</a></li>
+                        <li><a href="/academics/campuses">Campuses</a></li>
+                        <li><a href="/healthcare">Health Care</a></li>
+                        <li><a href="/research">Research</a></li>
+                        <li><a href="/impact">Impact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-list">
+
+                    <h2>Resources</h2>
+                    <ul>
+
+                        <li><a href="/prospective-students">Prospective Students</a></li>
+                        <li><a href="/current-students">Current Students</a></li>
+                        <li><a href="https://global.psu.edu/">International Students</a></li>
+                        <li><a href="/business-and-industry">Business and Industry</a></li>
+                        <li><a href="https://veterans.psu.edu/">Veterans</a></li>
+                        <li><a href="/visitors">Visitors</a></li>
+                        <li><a href="/faculty-and-staff">Faculty and Staff</a></li>
+                        <li><a href="https://www.alumni.psu.edu/">Alumni</a></li>
+                        <li><a href="https://media.psu.edu/">Media</a></li>
+
+                    </ul>
+
+                </div>
+                <div class="footer-list">
+                    <h2>Popular Links</h2>
+
+                    <ul>
+
+                        <li><a href="/maps">Maps</a></li>
+                        <li><a href="http://www.work.psu.edu/ldap/">Directory</a></li>
+                        <li><a href="https://libraries.psu.edu/">Libraries</a></li>
+                        <li><a href="https://www.registrar.psu.edu/academic-calendars/">Academic Calendar</a></li>
+                        <li><a href="https://lionpathsupport.psu.edu/">LionPATH</a></li>
+
+                    </ul>
+
+                </div>
+                <div class="footer-list">
+
+                    <h2>Stay Connected</h2>
+                    <ul>
+
+                        <li><a href="http://headlines.psu.edu/">Emails / Headlines</a></li>
+                        <li><a href="https://psualert.psu.edu/">Emergency Notifications</a></li>
+                        <li><a href="https://mobile.psu.edu/">Penn State Go</a></li>
+                        <li><a href="https://strategiccommunications.psu.edu/">Strategic Communications</a></li>
+                        <li><a href="https://universityethics.psu.edu/resources-reporting-wrongdoing">Report Misconduct</a></li>
+                        <li><a href="https://www.police.psu.edu/">Police</a></li>
+
+                    </ul>
+
+                </div>
+            </div>
+
+            <div class="subfooter-mark ">
+                <a href="/"> <img src="/components/img/psu-mark-footer.png" alt="Nittany Lion Shield Penn State Mark"></a>
+            </div>
+
+            <div class="subfooter-contact subfooter-links need-line">
+                <ul>
+                    <li>201 Old Main, University Park, Pennsylvania 16802</li>
+                    <li class="bold"><a href="tel:814-865-4700">814-865-4700</a> </li>
+                    <li class="bold"><a href="/contact-us">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <div class="subfooter-legal subfooter-links">
+
+                <ul class="with-border">
+                    <li><a href="/web-privacy-statement">Privacy Statement</a></li>
+                    <li><a href="https://policy.psu.edu/policies/ad85">Non Discrimination</a></li>
+                    <li><a href="/accessibilitystatement">Accessibility</a></li>
+                    <li><a href="https://policy.psu.edu/policies/hr11">Equal Opportunity</a></li>
+                    <li><a href="/legal-statements">Legal Statements</a></li>
+                </ul>
+
+                <ul>
+                    <li><a href="/copyright-information">The Pennsylvania State University &copy; 2022</a> </li>
+                    <li class="footer-svg"><img src="https://www.psu.edu/psu-edu-assets/images/shared/we-are-penn-state.svg" alt="We Are Penn State"></li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+</section>
+
+    <div class="dialog-overlay" tabindex="-1"></div>
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="/components/js/alert.js"></script>
+<script src="/components/js/main.js"></script>
+<script src="/components/js/dialog.js"></script>
+<script>
+    var navDialogEl = document.querySelector('.main-dialog');
+    var dialogOverlay = document.querySelector('.dialog-overlay');
+
+    var myDialog = new Dialog(navDialogEl, dialogOverlay);
+    myDialog.addEventListeners('.open-dialog', '.close-dialog');
+</script>
+<script src="/components/js/submenu.js"></script>
+</body>
+</html>
+";
