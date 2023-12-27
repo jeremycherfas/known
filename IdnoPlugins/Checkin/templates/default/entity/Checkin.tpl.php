@@ -22,7 +22,7 @@
     </span>
 
     <?php if (empty($vars['feed_view'])) { ?>
-        <div id="map_<?php echo $object->_id ?>" style="height: 250px"></div>
+        <div id="map_<?php echo $object->_id ?>" style="height: 256px"></div>
     <?php } ?>
 
     <div class="e-content entry-content">
